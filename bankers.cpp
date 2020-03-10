@@ -1,8 +1,3 @@
-/*
- * Bankers Algorithm Project (OS)
- * Ali Emad 1610052 - Aya Hany 1610139 - Salmeen Essam 1610102
- */
-
 #include <iostream>
 using namespace std;
 
