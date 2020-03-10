@@ -1,5 +1,5 @@
 # Bankers Algorithm
-This is the implementation of the bankers algorithm which is usually used to allocate finite resources to a set of tasks/processes/etc.
+This is the implementation of the bankers algorithm which is usually used to allocate finite resources to a set of tasks/processes/etc. This algorithm is usually used to avoid deadlocks occuring in Operating Systems.
 
 In this implementation, the algorithm parameters are:
 - The number of processes `n`
